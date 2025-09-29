@@ -12,8 +12,8 @@ This project involves:
 
 - **1. Data Architecture:** Designing a Modern Data Warehouse Using Medallion Arthitecture Bronze, Silver, and Gold layers.
 - **2. ETL Pipelines:** Extracting, transforming, and loading data from source systems into the warehouse.
-- **3. Data Modeling:** Developing fact and dimension tables: optimised for analytical queries.
-- **4. Analytics a Reporting:** Creating SOL-based reports and dashboards for actionable insighs.
+- **3. Data Modelling:** Developing fact and dimension tables: optimised for analytical queries.
+- **4. Analytics Reporting:** Creating SOL-based reports and dashboards for actionable insighs.
 
 This repository is an excellent resource for professionals and students looking to showcase expertise in:
 
@@ -21,7 +21,7 @@ This repository is an excellent resource for professionals and students looking 
 - Data Architecture
 - Data Engineering
 - ETL Pipline Developer
-- Data Modeling
+- Data Modelling
 - Data Analytics
 
 ---
