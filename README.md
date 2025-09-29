@@ -64,9 +64,9 @@ The data architecture for this project follows the Medallion Architecture's Bron
 
 <img width="6235" height="3216" alt="data_architecture" src="https://github.com/user-attachments/assets/c725836f-e963-4b6e-9b7a-6d34d25c112f" />
 
-- 1. **Bronze Layer:** Stores raw data as-is from the source systems. Data is taken from CSV files into our SQL Server database.
-- 2. **Silver Layer:** This layer includes data cleansing, standardisation, and normalisation processes to prepare data for analysis.
-- 3. **Gold Layer:** Houses business-ready data modelled into a star schema required for reporting and analytics.
+- **Bronze Layer:** Stores raw data as-is from the source systems. Data is taken from CSV files into our SQL Server database.
+- **Silver Layer:** This layer includes data cleansing, standardisation, and normalisation processes to prepare data for analysis.
+- **Gold Layer:** Houses business-ready data modelled into a star schema required for reporting and analytics.
 
 ---
 
