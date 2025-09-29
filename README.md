@@ -15,23 +15,14 @@ This project involves:
 - **3. Data Modeling:** Developing fact and dimension tables: optimised for analytical queries.
 - **4. Analytics a Reporting:** Creating SOL-based reports and dashboards for actionable insighs.
 
+This repository is an excellent resource for professionals and students looking to showcase expertise in:
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- SQL Development
+- Data Architecture
+- Data Engineering
+- ETL Pipline Developer
+- Data Modeling
+- Data Analytics
 
 ---
 
@@ -64,6 +55,18 @@ Develop SQL-based analytics to deliver detailed insights into:
 - Sales Trends  
 
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.  
+
+---
+
+#Data Architecture
+
+The data architecture for this project follows the Medallion Architecture's Bronze, Silver, and Gold layers.
+
+<img width="6235" height="3216" alt="data_architecture" src="https://github.com/user-attachments/assets/c725836f-e963-4b6e-9b7a-6d34d25c112f" />
+
+-  1. **Bronze Layer:** Stores raw data as-is from the source systems. Data is taken from CSV files into our SQL Server database.
+-  2. **Silver Layer:** This layer includes data cleansing, standardisation, and normalisation processes to prepare data for analysis.
+-  3. **Gold Layer:** Houses business-ready data modelled into a star schema required for reporting and analytics.
 
 ---
 
