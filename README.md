@@ -10,10 +10,10 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 
 This project involves:
 
-1. Data Architecture: Designing a Modern Data Warehouse Using Medallion Arthitecture Bronze, Silver, and Gold layers.
-2. ETL Pipelines: Extracting, transforming, and loading data from source systems into the warehouse.
-3. Data Modeling: Developing fact and dimension tables: optimised for analytical queries.
-4. Analytics a Reporting: Creating SOL-based reports and dashboards for actionable insighs.
+1. ** Data Architecture:** Designing a Modern Data Warehouse Using Medallion Arthitecture Bronze, Silver, and Gold layers.
+2. ** ETL Pipelines:**  Extracting, transforming, and loading data from source systems into the warehouse.
+3. ** Data Modeling:**  Developing fact and dimension tables: optimised for analytical queries.
+4. ** Analytics a Reporting:**  Creating SOL-based reports and dashboards for actionable insighs.
 
 
 
